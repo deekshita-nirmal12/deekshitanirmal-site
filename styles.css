@@ -230,4 +230,12 @@ line after the link */
     border-radius: 50%;
   }
 
+  .img-blog{
+    max-width: 90%;
+    width: 450px;
+    display: block;
+    margin: auto;
+
+  }
+
   

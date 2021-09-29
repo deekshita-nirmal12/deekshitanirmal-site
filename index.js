@@ -52,7 +52,7 @@ function play(question, answer) {
    
   }
 
-  console.log("current score: ", score);
+  console.log("current score: ", score);ll
   console.log("-------------")
 }
 
